@@ -1,5 +1,3 @@
-# CPI_case_study
-
 # CPI Inflation Case Study
 
 ## Overview
